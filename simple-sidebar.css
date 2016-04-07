@@ -49,6 +49,17 @@
 }
 
 /* Sidebar Styles */
+#myCarousel {
+   z-index: 100;
+   overflow: hidden;
+   height: 600px;
+}
+
+.myCarousel .item {
+ position: absolute;
+ width: 100%;
+ height: auto;
+}
 
 .sidebar-nav {
     position: absolute;
