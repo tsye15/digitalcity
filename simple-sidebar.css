@@ -67,8 +67,10 @@
 .sidebar-nav li a {
     display: block;
     text-decoration: none;
-    color: rgb(161,161,206);
+    color: gray;
     font-family:"Courier New", Courier, monospace;
+    font-size: 3em;
+    font-weight: bold;
 }
 
 .sidebar-nav li a:hover {
