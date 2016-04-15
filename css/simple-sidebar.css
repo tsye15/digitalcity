@@ -62,6 +62,8 @@
   height: auto;
 }
 .carousel-inner img {
+    -webkit-filter: grayscale(75%);
+    filter: grayscale(75%); /* make all photos black and white */ 
     width: 100%; /* Set width to 100% */
     margin: auto;
 }
